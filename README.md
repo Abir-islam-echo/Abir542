@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abir542
-- 👀 I’m interested in Solving problems
+- 👀 I’m interested in problem solving
 - 🌱 I’m currently learning A/B Testing
 - 📫 How to reach me abir@echologyx.com
 
